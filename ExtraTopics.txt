@@ -1,0 +1,5 @@
+Cloud
+Git
+DevOps
+static vs Dynamic
+REGEX
